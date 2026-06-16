@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280" role="img" aria-label="Find the Dish by Saim logo">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="65%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#f8fafc" />
+    </radialGradient>
+  </defs>
+  <circle cx="140" cy="140" r="136" fill="url(#bg)" stroke="#2563eb" stroke-width="6" />
+  <circle cx="140" cy="140" r="120" fill="#ffffff" />
+
+  <path d="M112 108 C112 82 154 72 156 96 C158 72 200 82 200 108 C200 134 176 140 156 140 C136 140 112 134 112 108 Z" fill="#2563eb" />
+  <path d="M124 108 C124 110 142 122 158 118 C168 116 176 110 176 108 C176 104 156 98 148 98 C140 98 124 104 124 108 Z" fill="#f8fafc" />
+  <path d="M130 136 C132 128 140 120 148 120 C160 120 166 136 168 148 C170 162 168 172 160 176 C152 180 136 174 130 164 C124 154 126 144 130 136 Z" fill="#fafafa" stroke="#2563eb" stroke-width="3" />
+
+  <path d="M80 165 C92 160 110 150 118 174 C124 190 126 210 112 218 C98 226 86 214 88 202 C90 190 96 176 80 165 Z" fill="#dc2626" stroke="#b91c1c" stroke-width="4" />
+  <path d="M72 154 C84 158 88 172 80 180 C72 188 60 184 56 172 C52 160 56 144 72 154 Z" fill="#16a34a" />
+  <path d="M68 148 C76 146 86 150 90 158 C92 166 88 176 80 178 C72 180 64 174 68 148 Z" fill="#22c55e" />
+
+  <path d="M184 160 C196 152 216 146 228 158 C240 170 236 192 220 200 C204 208 190 190 184 176 C178 162 180 158 184 160 Z" fill="#16a34a" />
+  <path d="M176 152 C184 150 196 154 202 164 C206 172 202 184 196 188 C190 192 178 184 176 175 C174 166 174 156 176 152 Z" fill="#22c55e" />
+
+  <text x="140" y="42" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#065f46">FIND THE DISH BY SAIM</text>
+  <text x="140" y="256" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#065f46">HALAL PAKISTANI KITCHEN</text>
+</svg>
